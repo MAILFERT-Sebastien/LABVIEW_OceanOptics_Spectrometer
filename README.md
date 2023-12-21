@@ -5,7 +5,7 @@
 This software is designed to control an Ocean Optics USB4000 spectrometer.
 As you can see on the following video, the Labview GUI is simple and allows to read the infomation coming from the spectrometer, control it AND measure the transmission of fluorescence filter:
 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/Labview_Nikon_Ti2_Control.png)]([https://youtu.be/x3z7vbhCzYc](https://www.youtube.com/watch?v=lz8w-zJ4CPQ))
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OcenOptics_Spectyrometer/Images/Labview_OceanOptics_USB4000.png)]([https://youtu.be/x3z7vbhCzYc](https://www.youtube.com/watch?v=lz8w-zJ4CPQ))
 
 
 ## Prerequisites
