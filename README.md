@@ -33,16 +33,26 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
       </ul>
       
 2. Labview code
-      Copy the 5 Labview files on your desktop. Several Labview files are provided:
+
+      Download the 2 Labview files and folders on your desktop. Several Labview files are provided:
       <ul>
-      <li> <i>Nikon_Ti2_Control.lvproj</i> : the project file itself</li>
-      <li> <i>231107_Nikon_Control.vi</i> : the main file</li>
-      <li> <i>231107_Nikon_CheckStatus.vi</i> : the file used to retrieve microscope status in the form of a complete cluster</li>
-      <li> <i>231107_Cluster_MAJ.vi</i> : the file used to convert the microscope's complete status cluster into a cluster usable for the interface</li>
-      <li> <i>231106_Nikon_Led.vi</i> : file for generating green LEDs according to microscope status (eyepieces, left port, right port, mix)</li>
+      <li> <i>231215_Spectrometer_Example_1.0.vi</i> : a first simple example to acquire continously a spectrum</li>
+      <li> <i>231215_Spectrometer_Example_2.0.vi</i> : a second example where one can compute the transmission curbe of a fluorescence filter</li>
       </ul>
 
 ## Running the tests
+1. 231215_Spectrometer_Example_1.0.vi
+	<ul>
+      	<li> Double-click on the <i>231215_Spectrometer_Example_1.0.vi</i> file</li>
+      	<li> Click on the <i>Run</i> arrow to run the vi</li>
+      	</ul>
+
+
+2. 231215_Spectrometer_Example_2.0.vi
+	<ul>
+      	<li> Double-click on the <i>231215_Spectrometer_Example_2.0.vi</i> file</li>
+      	<li> Click on the <i>Run</i> arrow to run the vi</li>
+      	</ul>
 
 
 ## Versioning
