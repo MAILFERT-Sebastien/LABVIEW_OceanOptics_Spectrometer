@@ -19,12 +19,17 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
    <ul>
       <li> Open <i>Labview</i></li>
       <li> In the <i>Help</i> tab, select <i>Find instrument drivers</i></li>
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_Drivers_0.png)
       <li> Select <i>Ocean Optics</i> in the list of manufacturers</li>
       <li> Click on <i>Search</i> </li>
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_Drivers_1.png)
       <li> Select the <i>ocean2000 Instrument Driver</i> item</li>
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_Drivers_2.png)
       <li> Click on <i>Install</i></li>
       <li> Log in or create a <i>NI profile</i></li>
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_Drivers_3.png)
       <li> Once installed, close this window</li>
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_Drivers_4.png)
       </ul>
       
 2. Labview code
