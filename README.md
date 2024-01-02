@@ -6,7 +6,7 @@ This software is designed to control an Ocean Optics USB4000 spectrometer.
 As you can see on the following video, the Labview GUI is simple and allows to read the infomation coming from the spectrometer, control it AND measure the transmission of fluorescence filter:
 
 [![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_USB4000.png)]([https://youtu.be/x3z7vbhCzYc](https://www.youtube.com/watch?v=lz8w-zJ4CPQ))
-
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_USB4000_2.png)]([https://youtu.be/C9iH8P3rPok](https://youtu.be/C9iH8P3rPok))
 
 ## Prerequisites
 This program has been tested under Labview 2023 64-bit. It is therefore necessary to have at least one version of Labview 2023 installed.
@@ -52,7 +52,25 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
 	<ul>
       	<li> Double-click on the <i>231215_Spectrometer_Example_2.0.vi</i> file</li>
       	<li> Click on the <i>Run</i> arrow to run the vi</li>
-      	</ul>
+	<li> Measure a transmission curve</li>
+      		<ul>
+	      	<li> Record a noise spectrum by clicking on the Filter characterization tab named "Type of measurement" and select "Background noise"</li>
+		<li> Record a spectrum of a source by selecting "Source without filter"</li>
+		<li> Record a spectrum of this source through the filter by selecting "Source after the filter"</li>
+		</ul>
+	<li> Save the transmission curve</li>
+		<ul>
+	      	<li> Select a folder by clikcing on "File Path"</li>
+		<li> Enter a name for the file (without the extension) in the "File name (wo extension)" box</li>
+		<li> Choose the type of curve you want to save (filter transmission or source) and click on "Save"</li>
+		</ul>
+	<li> Display a theoretical transmission curve</li>
+		<ul>
+	      	<li> Select the type of filter (BandPass, LongPass, ShortPass)</li>
+		<li> Set the center wavelength</li>
+		<li> Set the transmission band (in nm) and the transmission (%)</li>
+		</ul>
+	</ul>
 
 
 ## Versioning
