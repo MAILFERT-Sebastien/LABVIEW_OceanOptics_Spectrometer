@@ -1,8 +1,3 @@
-<head>
-<title>Page d'accueil Example.com</title>
-<meta name="google-site-verification" content="8wrFKm7i97g3irXIEuLzCT_sEULO6i5uGG5jUVGnux0" />
-</head>
-
 # LABVIEW_OceanOptics_Spectrometer
 [LABVIEW] Control of an Ocean Optics USB4000 spectrometer AND measure of the fluorescence transmission of filters
 
@@ -40,7 +35,7 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
       
 2. Labview code
 
-      Download the 2 Labview files and folders on your desktop. Several Labview files are provided:
+      Download the 2 Labview files AND associated folders on your desktop. Several Labview files are provided:
       <ul>
       <li> <i>231215_Spectrometer_Example_1.0.vi</i> : a first simple example to acquire continously a spectrum</li>
       <li> <i>231215_Spectrometer_Example_2.0.vi</i> : a second example where one can compute the transmission curbe of a fluorescence filter</li>
