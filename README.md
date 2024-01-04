@@ -72,7 +72,7 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
 		<li> Set the transmission band (in nm) and the transmission (%)</li>
 		</ul>
 	</ul>
-
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/FilterTransmission_Measurement.png)]([https://youtu.be/IOkKzA5c4gc](https://youtu.be/IOkKzA5c4gc))
 
 ## Versioning
 
