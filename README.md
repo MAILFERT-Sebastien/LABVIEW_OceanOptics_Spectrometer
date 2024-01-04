@@ -6,8 +6,8 @@
 This software is designed to control an Ocean Optics USB4000 spectrometer.
 As you can see on the following video, the Labview GUI is simple and allows to read the infomation coming from the spectrometer, control it AND measure the transmission of fluorescence filter:
 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_USB4000.png)]([https://youtu.be/x3z7vbhCzYc](https://www.youtube.com/watch?v=lz8w-zJ4CPQ))
-[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_USB4000_2.png)]([https://youtu.be/C9iH8P3rPok](https://youtu.be/C9iH8P3rPok))
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_USB4000.png)](https://www.youtube.com/watch?v=lz8w-zJ4CPQ)
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/Labview_OceanOptics_USB4000_2.png)](https://youtu.be/C9iH8P3rPok)
 
 ## Prerequisites
 This program has been tested under Labview 2023 64-bit. It is therefore necessary to have at least one version of Labview 2023 installed.
@@ -72,7 +72,7 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
 		<li> Set the transmission band (in nm) and the transmission (%)</li>
 		</ul>
 	</ul>
-[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/FilterTransmission_Measurement.png)]([https://youtu.be/IOkKzA5c4gc](https://youtu.be/IOkKzA5c4gc))
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW_OceanOptics_Spectrometer/blob/main/Images/FilterTransmission_Measurement.png)](https://youtu.be/IOkKzA5c4gc)
 
 ## Versioning
 
