@@ -76,7 +76,7 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
 
 ## Versioning
 
-V1.0, 231215
+V1.0, 240104
 
 ## Authors
 Sébastien MAILFERT
